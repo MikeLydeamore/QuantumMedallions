@@ -1,0 +1,12 @@
+item.quantumCore.0.name=Strong Quantum Core
+item.quantumCore.1.name=Mild Quantum Core
+itemGroup.QuantumMedallions=Quantum Medallions
+compressed=Compressed
+doublecompressed=Double Compressed
+triplecompressed=Triple Compressed
+quadruplecompressed=Quadruple Compressed
+quintuplecompressed=Quintuple Compressed
+sextuplecompressed=Sextuple Compressed
+septuplecompressed=Septuple Compressed
+octuplecompressed=Octuple Compressed
+tile.quantumCreator.name=Quantum Creator
